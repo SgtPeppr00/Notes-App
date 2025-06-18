@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import NoteForm from "./components/NoteForm";
 import Note from "./components/Note";
+import { supabase } from "./supabaseClient";
 import "./index.css";
 
 function App() {
