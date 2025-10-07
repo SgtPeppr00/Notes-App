@@ -1,5 +1,7 @@
 This is a simple Notes app built using React JS. It is the author's first project, and they are using it as a learning experience for React.
 
+CURRENTLY DOES NOT FUNCTION. NO RECENT UPDATE
+
 ### Main Function Points
 - Create and save notes
 - View and edit existing notes
